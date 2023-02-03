@@ -1,4 +1,4 @@
 # University
 ***
-Here I store some tasks from my university, that I found interesting
+Here I store some interesting tasks from my university.
 ***
